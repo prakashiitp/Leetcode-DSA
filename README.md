@@ -12,3 +12,11 @@ Here, I’m solving **LeetCode problems daily** and pushing my solutions to trac
 - 🌱 **Started On:** *September 17, 2025*  
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/prakashiitp/Leetcode-DSA/tree/master/1757-recyclable-and-low-fat-products) |
+<!---LeetCode Topics End-->
